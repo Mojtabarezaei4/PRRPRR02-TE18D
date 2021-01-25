@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mojtaba.rezaei\\Documents\\Skolans uppgifter\\Github\\Programmering2\\SOLID-Labb-Mojje\\SOLID-Labb\\SOLID-Labb.csproj",
+      "projectUniqueName": "C:\\Users\\Mojtaba.rezaei\\Documents\\Skolans uppgifter\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb.csproj",
       "projectName": "SOLID-Labb",
-      "projectPath": "C:\\Users\\Mojtaba.rezaei\\Documents\\Skolans uppgifter\\Github\\Programmering2\\SOLID-Labb-Mojje\\SOLID-Labb\\SOLID-Labb.csproj",
+      "projectPath": "C:\\Users\\Mojtaba.rezaei\\Documents\\Skolans uppgifter\\PRRPRR02-TE18D\\SOLID-Labb\\SOLID-Labb.csproj",
       "packagesPath": "C:\\Users\\Mojtaba.rezaei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mojtaba.rezaei\\Documents\\Skolans uppgifter\\Github\\Programmering2\\SOLID-Labb-Mojje\\SOLID-Labb\\obj\\",
+      "outputPath": "C:\\Users\\Mojtaba.rezaei\\Documents\\Skolans uppgifter\\PRRPRR02-TE18D\\SOLID-Labb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mojtaba.rezaei\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -15,7 +15,12 @@ namespace SOLID_Labb
         {
             Console.WriteLine("Bird is chirping!");
         }
-
+        public override void OwnersStatus()
+        {
+        }
+        public override void OwnersStatus()
+        {
+        }
         public override void Sleep()
         {
             Console.WriteLine("Bird is sleeping!");
